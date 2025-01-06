@@ -1,0 +1,51 @@
+div {
+    margin: 70px;
+    border: 1px solid #4CAF50;
+}
+
+#intro {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+
+.values4 {
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color: lightblue;
+}
+
+.values3 {
+    border: 1px solid black;
+    margin: 25px 50px 75px;
+    background-color: lightblue;
+}
+
+.values2 {
+    border: 1px solid black;
+    margin: 25px 50px;
+    background-color: lightblue;
+}
+
+.values1 {
+    border: 1px solid black;
+    margin: 25px;
+    background-color: lightblue;
+}
+
+.margin-auto {
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+.inherit-value {
+    border: 1px solid red;
+    margin-left: 100px;
+}
+p.ex1 {
+    margin-left: inherit;
+}
